@@ -48,7 +48,7 @@
 ---
 
 ### ✍️ Frase personal
-> *“La programación convierte ideas en soluciones.”*
+> *“Divide y venceras”*
 
 ---
 
